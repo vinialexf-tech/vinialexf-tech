@@ -74,7 +74,3 @@ Bot com funcionalidades úteis e entretenimento para servidores
 </p>
 
 ---
-
-<p align="center">
-  <i>"Código bom resolve problema. Código incrível muda o jogo."</i>
-</p>
