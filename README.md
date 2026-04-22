@@ -13,7 +13,6 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 ADS no UDF (2025 - 2026)
 - 💻 Foco em desenvolvimento Fullstack
 - 🔥 Criando projetos reais, não só estudo
 - 🎯 Buscando evolução constante e oportunidades na área
