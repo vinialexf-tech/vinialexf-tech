@@ -109,7 +109,7 @@
 ## ⚙️ tech_stack.sys
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,java,csharp,figma&theme=dark" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,python,nodejs,java,csharp,figma&theme=dark](https://giffiles.alphacoders.com/220/220001.gif)" />
 </p>
 
 ---
